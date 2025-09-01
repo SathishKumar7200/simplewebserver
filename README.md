@@ -77,7 +77,7 @@ httpd = HTTPServer(server_address,MyServer)
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-08-31 231130.png>)
+![alt text](<Screenshot 2025-09-01 143325.png>)
 
 ![alt text](<Screenshot 2025-08-31 231348.png>)
 
